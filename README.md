@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aram Zadoyan.
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning React-JS.
+- 🌱 Front End Developer - React-JS.
 - 📫 How to reach me. Here is my portfolio link, you can reach me there.
 - https://deft-kitsune-a739d9.netlify.app
 
