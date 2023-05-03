@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aram Zadoyan.
-- ⚛️ Front End Developer - React-JS.
+- ⚛️ Front End Developer - ReactJS.
 - 📫 How to reach me. Here is my portfolio link, you can reach me there.
 - https://gorgeous-dusk-fd9ff9.netlify.app/
 
